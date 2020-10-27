@@ -37,11 +37,11 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Dart       18 hrs 6 mins   ████████████████▒░░░░░░░░   65.78 % 
-YAML       4 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Other      2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Markdown   1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Groovy     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Dart       17 hrs 40 mins  ████████████████▒░░░░░░░░   65.37 % 
+YAML       4 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Other      2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown   1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Groovy     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
