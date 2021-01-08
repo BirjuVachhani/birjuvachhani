@@ -37,11 +37,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Dart         3 hrs 54 mins   █████████████████▓░░░░░░░   71.05 % 
-YAML         50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Other        35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
