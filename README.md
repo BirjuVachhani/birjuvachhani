@@ -37,7 +37,9 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart       3 hrs 33 mins   ██████████████████████░░░   87.41 % 
+sh         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+YAML       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 <!--END_SECTION:waka-->
 
