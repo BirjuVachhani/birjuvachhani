@@ -37,8 +37,9 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-sh     5 hrs 23 mins   ████████████████████████░   96.03 % 
-JSON   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+sh     5 hrs 42 mins   ███████████████████████▓░   94.01 % 
+JSON   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Bash   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 <!--END_SECTION:waka-->
 
