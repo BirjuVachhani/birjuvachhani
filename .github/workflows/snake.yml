@@ -1,0 +1,62 @@
+name: Snake Animation
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+    
+jobs:
+  generate:
+    name: Github Contribution Snake Animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # list of files to generate.
+      # one file per line. Each output can be customized with options as query string.
+      #
+      #  supported options:
+      #  - palette:     A preset of color, one of [github, github-dark, github-light]
+      #  - color_snake: Color of the snake
+      #  - color_dots:  Coma separated list of dots color.
+      #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+      #                 Exactly 5 colors are expected.
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: print dist content
+        run: ls -R dist
+      - uses: actions/upload-artifact@v2
+        with:
+          path: dist/*
+  
+  upload:
+    needs: [generate]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          path: downloads
+      - name: Display structure of downloaded files
+        run: ls -R downloads
+      - name: Checkout
+        uses: actions/checkout@v2.4.2
+      - name: Move artifacts to dist
+        run: mv downloads/artifact/ dist/ 
+      - name: Display contents of dist directory
+        run: ls -R dist
+      - name: Commit changes
+        uses: swinton/commit@v2.0.0
+        with:
+          files: dist/
+          # Base directory containing files to be committed, defaults to the GitHub workspace directory path, $GITHUB_WORKSPACE.
+          commit-message: Update contribution snake animation
+    
