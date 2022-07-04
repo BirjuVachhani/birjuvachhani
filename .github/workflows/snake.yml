@@ -29,8 +29,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: print dist content
-        run: ls -R dist
       - uses: actions/upload-artifact@v2
         with:
           path: dist/*
@@ -45,12 +43,10 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           path: downloads
-      - name: Display structure of downloaded files
-        run: ls -R downloads
       - name: Move artifacts to dist
-        run: mv downloads/artifact/ dist/ 
-      - name: Display contents of dist directory
-        run: ls -R dist
+        run: |
+          rm -rf dist
+          mv downloads/artifact/ dist/ 
       - name: Commit & push changes
         uses: EndBug/add-and-commit@v9
         env:
