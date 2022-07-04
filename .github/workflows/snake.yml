@@ -54,10 +54,12 @@ jobs:
         run: mv downloads/artifact/ dist/ 
       - name: Display contents of dist directory
         run: ls -R dist
-      - name: Commit changes
-        uses: swinton/commit@v2.0.0
+      - name: Commit & push changes
+        uses: EndBug/add-and-commit@v9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          files: dist/
-          # Base directory containing files to be committed, defaults to the GitHub workspace directory path, $GITHUB_WORKSPACE.
-          commit-message: Update contribution snake animation
+          add: 'dist'
+          message: Update github contribution snake animation
+          signoff: true
     
