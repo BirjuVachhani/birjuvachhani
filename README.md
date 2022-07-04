@@ -90,6 +90,11 @@ No activity tracked
 <img align="left" alt="java" width="22px" height="22px" src="https://raw.githubusercontent.com/BirjuVachhani/birjuvachhani/master/assets/figma.svg#gh-light-mode-only" />
 <img align="left" alt="java" width="22px" height="22px" src="https://raw.githubusercontent.com/BirjuVachhani/birjuvachhani/master/assets/dark/figma.svg#gh-dark-mode-only" />
 
+<br/>
+
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 [website]: https://birjuvachhani.dev
 [stackoverflow]: https://stackoverflow.com/users/9199362/birju-vachhani?tab=profile
 [twitter]: https://twitter.com/birjuvachhani
