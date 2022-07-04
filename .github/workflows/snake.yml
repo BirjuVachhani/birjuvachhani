@@ -42,13 +42,14 @@ jobs:
     needs: [generate]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/download-artifact@v2
+      - name: Checkout
+        uses: actions/checkout@v2.4.2
+      - name: Download Artifacts
+        uses: actions/download-artifact@v2
         with:
           path: downloads
       - name: Display structure of downloaded files
         run: ls -R downloads
-      - name: Checkout
-        uses: actions/checkout@v2.4.2
       - name: Move artifacts to dist
         run: mv downloads/artifact/ dist/ 
       - name: Display contents of dist directory
