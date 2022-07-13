@@ -11,6 +11,9 @@
 ### Spotify 🎧
 [<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Birju Vachhani Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
 
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### Me on Internet:
 
 [<img align="left" alt="birjuvachhani.dev" width="40px" src="https://img.icons8.com/fluency/344/globe.png" />][website]
@@ -96,9 +99,6 @@ JSON             3 mins          ░░░░░░░░░░░░░░░�
 <img align="left" alt="java" width="22px" height="22px" src="https://raw.githubusercontent.com/BirjuVachhani/birjuvachhani/master/assets/dark/figma.svg#gh-dark-mode-only" />
 
 <br/>
-
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 [website]: https://birjuvachhani.dev
 [stackoverflow]: https://stackoverflow.com/users/9199362/birju-vachhani?tab=profile
