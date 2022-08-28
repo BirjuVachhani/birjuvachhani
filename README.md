@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart       1 hr 20 mins    ████████████████▒░░░░░░░░   64.97 %
-YAML       37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 %
-Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
