@@ -40,7 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart             4 hrs 13 mins   ██████████████████████░░░   87.96 %
+Java             32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
