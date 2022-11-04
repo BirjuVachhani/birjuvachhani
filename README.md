@@ -100,6 +100,12 @@ C                0 secs          ░░░░░░░░░░░░░░░�
 
 <br/>
 
+### Badges Board
+
+[![@birjuvachhani's Holopin board](https://holopin.me/birjuvachhani)](https://holopin.io/@birjuvachhani)
+
+<br/>
+
 [website]: https://birjuvachhani.dev
 [stackoverflow]: https://stackoverflow.com/users/9199362/birju-vachhani?tab=profile
 [twitter]: https://twitter.com/birjuvachhani
