@@ -32,7 +32,7 @@
 <br />
 
 ### Languages used in my public repos
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birjuvachhani&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=birjuvachhani&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
 
