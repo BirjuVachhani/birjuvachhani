@@ -9,7 +9,7 @@
 - ⚡ &nbsp;&nbsp; Fun fact: Cats will rule this world one day!
 
 ### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Birju Vachhani Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Birju Vachhani Spotify Playing" width="400" />](https://open.spotify.com/user/in9ymw091apissjughuvu67o6)
 
 ![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
