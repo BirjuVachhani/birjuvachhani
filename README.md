@@ -16,7 +16,7 @@
 
 ### Me on Internet:
 
-[<img align="left" alt="birjuvachhani.dev" width="40px" src="https://img.icons8.com/fluency/344/globe.png" />][website]
+[<img align="left" alt="birju.dev" width="40px" src="https://img.icons8.com/fluency/344/globe.png" />][website]
 [<img align="left" alt="birjuvachhani | Stackoverflow" width="40px" src="https://img.icons8.com/color/344/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="birjuvachhani | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v2.png" />][twitter]
 [<img align="left" alt="birjuvachhani | LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
@@ -105,7 +105,7 @@ JSON             16 mins         ▒░░░░░░░░░░░░░░�
 
 <br/>
 
-[website]: https://birjuvachhani.dev
+[website]: https://birju.dev
 [stackoverflow]: https://stackoverflow.com/users/9199362/birju-vachhani?tab=profile
 [twitter]: https://twitter.com/birjuvachhani
 [instagram]: https://instagram.com/birjuvachhani
