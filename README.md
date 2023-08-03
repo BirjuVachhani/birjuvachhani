@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             4 hrs 50 mins   █████████████████████▒░░░   85.11 %
-TypeScript       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-textmate         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Shell Script     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
