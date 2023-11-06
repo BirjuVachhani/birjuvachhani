@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=birjuvachhani&color=brightgreen&style=flat)
 
 - 🔭 &nbsp;&nbsp; I’m currently working on [Codelessly Builder](https://codelessly.com).
-- 🎮 &nbsp;&nbsp; I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) and [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) Checkout my [📺 &nbsp;Youtube](https://www.youtube.com/channel/UC4etwEXSItsB2x1AJ4VGhWw) channel for gaming videos.
+- 🎮 &nbsp;&nbsp; I'm currently playing [Horizon Zero Dawn](https://www.playstation.com/en-in/games/horizon-zero-dawn/) and [NFS Unbound]([https://store.steampowered.com/app/367520/Hollow_Knight/](https://www.playstation.com/en-in/games/need-for-speed-unbound/)). Checkout my [📺 &nbsp;Youtube](https://www.youtube.com/channel/UC4etwEXSItsB2x1AJ4VGhWw) channel for gaming videos.
 - 💬 &nbsp;&nbsp; Ask me about Android and Flutter.
 - 😄 &nbsp;&nbsp; Pronouns: he | his
 - ⚡ &nbsp;&nbsp; Fun fact: Cats will rule this world one day!
