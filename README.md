@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         9 mins          ██████████████████░░░░░░░   72.17 %
-XML          3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
