@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             19 hrs 28 mins  █████████████████░░░░░░░░   67.98 %
-YAML             3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-textmate         2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Markdown         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-GitIgnore file   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Dart             18 hrs 58 mins  █████████████████▓░░░░░░░   71.01 %
+YAML             2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+textmate         2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Markdown         1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+GitIgnore file   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
