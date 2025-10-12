@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                  28 hrs 19 mins  ██████████████████▒░░░░░░   73.90 %
-Markdown              4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-YAML                  3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Nginx Configuration   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-JSON                  17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Dart                  26 hrs 7 mins   ██████████████████▓░░░░░░   74.34 %
+Markdown              4 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+YAML                  2 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Nginx Configuration   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JSON                  17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
