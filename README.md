@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                  36 hrs 55 mins  ███████████████████████░░   92.08 %
-Nginx Configuration   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Protocol Buffer       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-protobuf              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-YAML                  31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Dart                  38 hrs 47 mins  ███████████████████████░░   91.36 %
+Nginx Configuration   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+YAML                  55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Protocol Buffer       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+protobuf              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
