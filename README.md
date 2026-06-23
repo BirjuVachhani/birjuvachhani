@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.74 %
-Astro        29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-Markdown     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Swift        14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Makefile     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
