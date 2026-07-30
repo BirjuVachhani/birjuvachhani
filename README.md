@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              4 hrs 28 mins   ████████████▒░░░░░░░░░░░░   49.64 %
-Markdown          2 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
-Kotlin            48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-YAML              33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Docker            21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
