@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS        0 secs          █████████████████████▒░░░   85.74 %
-textmate   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Dart       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
